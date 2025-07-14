@@ -140,13 +140,30 @@
       <option name="project" value="LOCAL" />
       <updated>1751939823818</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="create a pdf for each excel file">
+      <option name="closed" value="true" />
+      <created>1752457916648</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1752457916648</updated>
+    </task>
+    <task id="LOCAL-00007" summary="create a pdf for each excel file">
+      <option name="closed" value="true" />
+      <created>1752457927556</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1752457927556</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="excel files" />
     <MESSAGE value="Load excel in dataframe" />
-    <option name="LAST_COMMIT_MESSAGE" value="Load excel in dataframe" />
+    <MESSAGE value="create a pdf for each excel file" />
+    <option name="LAST_COMMIT_MESSAGE" value="create a pdf for each excel file" />
   </component>
 </project>
